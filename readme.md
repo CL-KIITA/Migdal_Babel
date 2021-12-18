@@ -14,9 +14,9 @@ CL-KIITA 総代表　佐藤陽花
 
 ## 詳細
 
-- 8 段版："babel8"[.svg](./babel8.svg)/[.png](./babel8.png)：大きいシンボルマークなどに。
-- 8 段版/彩色版："babel8_col"[.svg](./babel8_col.svg)/[.png](./babel8_col.png)：大きいシンボルマークなどに。
-- 8 段版/彩色「gd」字版："babel8_gd"[.svg](./babel8_gd.svg)/[.png](./babel8_gd.png)：大きいシンボルマークなどに。
-- 8 段版/彩色透過版："babel8_trans"[.svg](./babel8_trans.svg)/[.png](./babel8_trans.png)：背景などに。
-- 5 段版："babel5"[.svg](./babel5.svg)/[.png](./babel5.png)：シンボルマークなどに。
-- 3 段版："babel3"[.svg](./babel3.svg)/[.png](./babel3.png)：アイコンやファビコンなどに。
+- 8 段版："babel8"[.svg](./babel8/babel8.svg)/[.png](./babel8/babel8.png)：大きいシンボルマークなどに。
+- 8 段版/彩色版："babel8_col"[.svg](./babel8/babel8_col.svg)/[.png](./babel8/babel8_col.png)：大きいシンボルマークなどに。
+- 8 段版/彩色「gd」字版："babel8_gd"[.svg](./babel8/babel8_gd.svg)/[.png](./babel8/babel8_gd.png)：大きいシンボルマークなどに。
+- 8 段版/彩色透過版："babel8_trans"[.svg](./babel8/babel8_trans.svg)/[.png](./babel8/babel8_trans.png)：背景などに。
+- 5 段版："babel5"[.svg](./babel5/babel5.svg)/[.png](./babel5/babel5.png)：シンボルマークなどに。
+- 3 段版："babel3"[.svg](./babel3/babel3.svg)/[.png](./babel3/babel3.png)：アイコンやファビコンなどに。
